@@ -9,4 +9,5 @@ The External tools used in our scripts should be prepared before using scripts. 
 5. Blast, ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.11.0+-x64-linux.tar.gz
 6. Hmmer, https://github.com/EddyRivasLab/hmmer/archive/master.zip
 
-The main script "pipe
+The main script is pipeline_transcriptome.sh, including other script. When using this script, you can execut each step in script on command line.
+

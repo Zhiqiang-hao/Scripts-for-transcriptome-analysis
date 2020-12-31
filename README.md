@@ -1,2 +1,12 @@
 # Scripts-for-transcriptome-analysis
-Transcriptome analysis of the liver of Eospalax fontanierii under hypoxia
+This script set is designed for the study of "Transcriptome analysis of the liver of Eospalax fontanierii under hypoxia";
+All scripts were developed on Ubuntu system (version 18.04), one Linux operating system branch, which can be used in other Linux-like systems.
+The External tools used in our scripts should be prepared before using scripts. They are:
+1. Trinity, https://github.com/trinityrnaseq/trinityrnaseq/archive/master.zip, and installed in your system
+2. Transdecoder, https://github.com/TransDecoder/TransDecoder/archive/master.zip
+3. CD-hit, from https://github.com/weizhongli/cdhit/archive/master.zip
+4. Blast2go, https://www.biobam.com/blast2go-command-line-tools/
+5. Blast, ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.11.0+-x64-linux.tar.gz
+6. Hmmer, https://github.com/EddyRivasLab/hmmer/archive/master.zip
+
+The main script "pipe

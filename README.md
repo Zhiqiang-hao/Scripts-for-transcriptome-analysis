@@ -10,5 +10,5 @@ The External tools used in our scripts should be prepared before using scripts. 
 6. Hmmer, https://github.com/EddyRivasLab/hmmer/archive/master.zip
 
 The main script is pipeline_transcriptome.sh, including other script. When using this script, you can execut each step in script on command line.
-By step-wise pipeline, results from different softwares were used and processed by our script. When using external tools to generate necessary result, some conditions should be satified. For example, high memory server are needed  when transcripts are assembled. When annotating sequences, nr database need to be downloaded fristly.
+By step-wise pipeline, results from different softwares were used and processed by our script. When using external tools to generate necessary result, some conditions should be satified. For example, high memory server are needed  when transcripts are assembled. When annotating sequences, nr database need to be downloaded firstly.
 
